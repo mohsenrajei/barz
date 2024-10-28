@@ -1,4 +1,4 @@
-# Barz
+0d130fd27e2ea101af5c1424a66b487d4c491729# Barz
 
 A Secure, Modular, Upgradeable Smart Contract Wallet enabling mass adoption of Web3
 ```bash
